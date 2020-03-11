@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Kanit'), local('Kanit-Regular'),
+    /* url('Kanit/Kanit-Regular.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-Black.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-BlackItalic.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-Bold.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-BoldItalic.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-ExtraBold.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-ExtraBoldItalic.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-ExtraLight.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-ExtraLightItalic.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-Italic.ttf') format('truetype'), */
+    url('Kanit/Kanit-Light.ttf') format('truetype'),
+    /* url('Kanit/Kanit-LightItalic.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-Medium.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-MediumItalic.ttf') format('truetype'), */
+    /* url('Kanit/Kanit-SemiBold.ttf') format('truetype'), */
+}

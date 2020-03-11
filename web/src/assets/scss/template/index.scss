@@ -1,0 +1,36 @@
+body {
+  font-family: $main-fontName;
+  font-size: $main-fontRootSize;
+}
+
+img {
+  &.ui {
+    &.image {
+      display: inline;
+    }
+  }
+}
+
+.ui {
+  a {
+    color: $color-template;
+
+    &:hover {
+      color: $color-template-hover;
+    }
+  }
+}
+
+.ui {
+  &.form {
+    button {
+      &.button {
+        background-color: $color-template;
+
+        &:hover {
+          background-color: $color-template-hover;
+        }
+      }
+    }
+  }
+}
