@@ -1,0 +1,25 @@
+{
+  "navbar": {
+    "home": "Home",
+    "lottery": "Lottery",
+    "award": "Award"
+  },
+  "login": {
+    "btn_login": "Login",
+    "placeholder_username": "username",
+    "placeholder_password": "password"
+  },
+  "register": {
+    "btn_register": "Register",
+    "btn_next": "Next",
+    "placeholder_username": "Username",
+    "placeholder_password": "Password",
+    "placeholder_passwordConfirm": "Password Confirm",
+    "placeholder_telephone": "Telephone",
+    "placeholder_email": "E-mail",
+    "placeholder_first_name": "First Name",
+    "placeholder_last_name": "Last Name",
+    "placeholder_bank_name": "Bank Name",
+    "placeholder_account_number": "Account Number"
+  }
+}

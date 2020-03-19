@@ -1,0 +1,25 @@
+{
+  "navbar": {
+    "home": "หน้าแรก",
+    "lottery": "แทงหวย",
+    "award": "ผลรางวัล"
+  },
+  "login": {
+    "btn_login": "เข้าสู่ระบบ",
+    "placeholder_username": "ผู้ใช้งาน",
+    "placeholder_password": "รหัสผ่าน"
+  },
+  "register": {
+    "btn_register": "สมัครสมาชิก",
+    "btn_next": "ถัดไป",
+    "placeholder_username": "ผู้ใช้งาน",
+    "placeholder_password": "รหัสผ่าน",
+    "placeholder_passwordConfirm": "ยืนยันรหัสผ่าน",
+    "placeholder_telephone": "เบอร์โทรศัพท์",
+    "placeholder_email": "อีเมล",
+    "placeholder_first_name": "ชื่อ",
+    "placeholder_last_name": "สกุล",
+    "placeholder_bank_name": "ธนาคาร",
+    "placeholder_account_number": "เลขบัญชี"
+  }
+}

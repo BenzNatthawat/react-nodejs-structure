@@ -27,6 +27,8 @@ img {
       &.button {
         background-color: $color-template;
 
+        &:active,
+        &:focus,
         &:hover {
           background-color: $color-template-hover;
         }
